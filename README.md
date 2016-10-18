@@ -1,5 +1,5 @@
 # Practica1
-Práctica para unidad 01 LMSG01
+Práctica para unidad 01 de LMSG01
 
 Los documentos que se han subido en diferentes formatos son los siguientes:
 
@@ -9,5 +9,91 @@ Los documentos que se han subido en diferentes formatos son los siguientes:
 4. unidad01.rtf
 5. unidad01.xml
 
-Dichos documentos se han subido al repositorio [GITHUB] (www.github.com)
+Dichos documentos se han subido al repositorio [_GITHUB_] (www.github.com)
+
+### Contenido documentos
+
+>_unidad01.css_
+
+body { font: normal 1em Verdana; margin: 1em 10%;}
+h1 { font: italic 3em Georgia; color: rgb(23, 109, 109); margin: 1em 0 1em;}
+img { margin: 0 20px 0 0; }
+h1 img { marginbottom:
+20px;
+}
+small { color: #666666; }
+
+
+>_unidad01.html_
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Jen's Kitchen</title>
+<link rel="stylesheet" href="kitchen.css" type="text/css" >
+</head>
+<body>
+<h1><img src="foods.gif" alt="food illustration"> Jen&rsquo;s Kitchen</h1>
+<p>If you love to read about <strong>cooking and eating</strong>, would like to find out
+about
+of some of the best restaurants in the world, or just want a few choice recipes to add to
+your
+collection, <em>this is the site for you!</em></p>
+<p><img src="spoon.gif" alt="spoon illustration"> Your pal, Jen at Jen's Kitchen</p>
+<hr>
+<p><small>Copyright 2011, Jennifer Robbins</small></p>
+</body>
+</html>
+
+
+>_unidad01.ps_
+
+%!PS
+/Courier % Elige el tipo de letra
+20 selectfont % Establece el tamaño de la letra y
+% la toma como el tipo de letra en uso
+72 500 moveto % Coloca el cursor en las coordenadas
+% 72, 500 (contando los píxeles desde
+% la esquina izquierda de la página)
+(Hola mundo! Bienvenido a LMSGI) show % Escribe el texto entre paréntesis,
+showpage % Imprime el resultado
+
+
+>_unidad01.rtf_
+
+{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
+\viewkind4\uc1\pard\sa200\sl276\slmult1\lang10\f0\fs22 soy \i cursiva\i0\par}
+
+
+>_unidad01.xml_
+
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE biblioteca>
+<biblioteca>
+<ejemplar tipo_ejem="libro" titulo="XML practico" editorial="Ediciones Eni">
+<tipo> <libro isbn="978-2-7460-4958-1" edicion="1" paginas="347"></libro> </tipo>
+<autor nombre="Sebastien Lecomte"></autor>
+<autor nombre="Thierry Boulanger"></autor>
+<autor nombre="Ángel Belinchon Calleja" funcion="traductor"></autor>
+<prestado lector="Pepito Grillo">
+<fecha_pres dia="13" mes="mar" año="2009"></fecha_pres>
+<fecha_devol dia="21" mes="jun" año="2009"></fecha_devol>
+</prestado>
+</ejemplar>
+<ejemplar tipo_ejem="revista" titulo="Todo Linux 101. Virtualización en GNU/Linux" editorial="Studio Press">
+<tipo>
+<revista>
+<fecha_publicacion mes="abr" año="2009"></fecha_publicacion>
+</revista>
+</tipo>
+<autor nombre="Varios"></autor>
+<prestado lector="Pedro Picapiedra">
+<fecha_pres dia="12" mes="ene" año="2010"></fecha_pres>
+</prestado>
+</ejemplar>
+</biblioteca>
+
+
+
+
 
