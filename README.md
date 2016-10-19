@@ -9,7 +9,22 @@ Los documentos que se han subido en diferentes formatos son los siguientes:
 4. unidad01.rtf
 5. unidad01.xml
 
-Dichos documentos se han subido al repositorio [_GITHUB_] (www.github.com)
+Dichos documentos se han subido al repositorio [**_GITHUB_**] (www.github.com)
+
+
+### Pasos para realizar un repositorio:
+
+1. Una vez estamos en la página web indicada anteriormente, **_GITHUB_**, hay que darse de alta mediante un nombre de usuario, un correo electrónico y una contraseña, como se puede ver a continuación:
+![](https://lh3.googleusercontent.com/ggw64QkZXs_fwiGDuejegMrO6ev_oFIYqza5N2b1MDJZugMS5FEKQznyBEknuXDGu3Z08bLpK9GT-8g=w1920-h876)
+
+2. A continuación se debe validar el correo electrónico con el enlace que se ha recibido en el correo con el que se dió de alta el usuario
+![](https://lh3.googleusercontent.com/jrz95sWdvYJ3xYT-1hwPSC4uqDICCkzNJqoBUmfTZ3V4fcoXzML61cXpgN5W64fAi98oNmlN5oWNYmk=w1920-h876)
+
+3. Y una vez realizada la validación se recibirá otro correo dando la bienvenida a **GITHUB**
+![](https://lh6.googleusercontent.com/L5IW1C3M3NIcRFarzbNnryskpzC7xL4wWDjcU4oHOOVoyr7Z5c1PIooJSLqyo9Ljfa0kihOIvq4hv9k=w1920-h876)
+
+4.  Ya se puede empezar a crear un repositorio o seguir la [guía de ayuda] (https://guides.github.com/activities/hello-world/?utm_source=onboarding-series&utm_medium=email&utm_content=hello-world-link&utm_campaign=welcome-email) que se facilita en la página web, es muy útil e intuitiva.
+
 
 ### Contenido documentos
 
