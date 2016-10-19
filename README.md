@@ -107,8 +107,3 @@ showpage % Imprime el resultado
 </prestado>
 </ejemplar>
 </biblioteca>
-
-
-
-
-
